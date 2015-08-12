@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "redus891@gmail.com",
+    "longName": "Pebble digivice",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/b.png",
+                "name": "DUMMY_B",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/a.png",
+                "name": "DUMMY_A",
+                "type": "png-trans"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "pvice",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "08d5e8fc-c1f9-4c71-ab41-44a513480a11",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
